@@ -1,1 +1,11 @@
 .ipynb_checkpoints
+*.shp
+*.dbj
+*.shx
+*.dbx
+*.prj
+*.qpj
+*.qgz
+*.dbf
+*.tif
+
